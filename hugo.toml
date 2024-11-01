@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://tigerbloodwill.github.io/bianyuan/"
 languageCode = "zh-CN"
 title = "边缘AI导航"
 theme = "hugo-webstack"
